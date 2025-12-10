@@ -9,4 +9,4 @@ public class MathTests
         Assert.Equal(6.0, result);
     }
 }
-//1 commi
+//1 committ
